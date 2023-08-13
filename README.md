@@ -1,8 +1,6 @@
-# gargs
+# gargs ![gargs](https://github.com/Mindgamesnl/gargs/actions/workflows/go.yml/badge.svg)
 
-![image](https://github.com/Mindgamesnl/gargs/assets/10709682/fd276d82-27cf-4b3c-beae-6aa0c2ea0f97)
-
-
+![image](https://github.com/Mindgamesnl/gargs/assets/10709682/76c00c3c-7417-4a0d-bc72-6913769bfe40)
 
 **gargs** is a lightweight, flexible Go package for command-line argument parsing. It provides an intuitive API to define and access command line options with built-in support for custom MOTDs (Message of The Day).
 
